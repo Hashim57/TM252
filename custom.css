@@ -1,0 +1,5 @@
+/* Custom styles */
+.bg-primary { background-color: #4da6ff !important; }
+h1 { font-weight: bold; }
+footer .nav-link { color: #000 !important; }
+footer .nav-link:hover { text-decoration: underline; }
